@@ -1,0 +1,11 @@
+[2024-04-10 09:15:23] INFO: System started
+[2024-04-10 09:15:25] INFO: Connected to device 7HIN59KNQKQWAQMZ (BCA1)
+[2024-04-10 09:16:10] SUCCESS: Transfer to BRI 82289869875 (Frenki Ananda) - Rp1,403,000 - TrxID: 109420778-20250405
+[2024-04-10 09:16:12] INFO: Updated Google Sheets status to "processed"
+[2024-04-10 09:16:15] WARNING: Low balance detected in BCA1 (Rp3,725,242.73)
+[2024-04-10 09:20:03] ERROR: Transfer failed to BNI 1234567890 - Invalid PIN (Retry 1/3)
+[2024-04-10 09:20:45] SUCCESS: Retry successful for BNI 1234567890
+[2024-04-10 09:30:00] INFO: Scheduled job completed
+[2024-04-10 09:30:05] INFO: System shutting down
+[2024-04-10 09:30:07] INFO: Disconnected from device 7HIN59KNQKQWAQMZ
+[2024-04-10 09:30:10] INFO: System stopped

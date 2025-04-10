@@ -1,0 +1,5 @@
+[2024-04-10 09:20:03] ERROR: Transfer failed to BNI 1234567890
+    Device: WKOFONUONF4DQ48T (BNI1)
+    Reason: Invalid PIN input
+    Action: Retrying (attempt 1/3)
+    Stack Trace: Error: ADB command timeout at Timeout._onTimeout (/app/utils/adb.js:45:20)
