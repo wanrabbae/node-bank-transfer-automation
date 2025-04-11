@@ -2,7 +2,7 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 const { adbCommand, delay } = require('../utils/adb');
 
-const PACKAGE_NAME = 'com.bni.mobilebanking';
+const PACKAGE_NAME = 'src.com.bni';
 const DELAY = 3000;
 
 function automateBNITransfer(account, transferData) {

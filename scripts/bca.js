@@ -2,7 +2,7 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 
 const ADB_PATH = 'adb';
-const PACKAGE_NAME = 'com.ipos.bca';
+const PACKAGE_NAME = 'com.bca.mybca.omni.android';
 const DELAY = 2000;
 
 const accounts = JSON.parse(fs.readFileSync('./config/accounts.json', 'utf-8'));

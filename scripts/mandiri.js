@@ -1,6 +1,6 @@
 const { adbCommand, delay } = require('../utils/adb');
 
-const PACKAGE_NAME = 'com.bankmandiri.mandirionline';
+const PACKAGE_NAME = 'id.bmri.livin';
 const DELAY = 2500;
 
 function automateMandiriTransfer(account, transferData) {
